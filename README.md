@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **python, c++**
 
-- 📝 I regularly write articles on [medium.com/@pradepv](medium.com/@pradepv)
+- 📝 I regularly write articles on [medium.com/@pradepv](https://medium.com/@pradepv)
 
 - 💬 Ask me about **HTML, CSS, PYTHON**
 
